@@ -6,13 +6,10 @@ List of software useful on a Windows machine dedicated to gaming.
 # Manual Installation
 
 # Frontends:
-
 * [Playnite](https://playnite.link/download.html)
 * [Launchbox](https://www.launchbox-app.com/download)
 
-
 # Gaming Platforms:
-
 * [Steam](https://store.steampowered.com/about/)
 * [Epic Games](https://www.epicgames.com/)
 * [Battle.net](https://www.blizzard.com/en-gb/apps/battle.net/desktop)
@@ -26,16 +23,18 @@ List of software useful on a Windows machine dedicated to gaming.
 * [Radmin VPN](https://www.radmin-vpn.com/)
 * [Hamachi](https://vpn.net/)
 
+# Account Managers
+* [Steam Account Switcher]()
+* [GameRanger Account Switcher](https://github.com/kodie/gameranger-account-switcher)
+* [TCNO Account Switcher](https://github.com/TcNobo/TCNO-Acc-Switcher)
 
 # FrameRate
 * [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards)
 * [Rivatuner Statistics Server](https://rivatuner.me/)
 * [FRAPS](https://fraps.com/)
 
-
 # Playstation
 * [PS Remote Play](https://www.playstation.com/en-gb/remote-play/)
-
 
 # Cheating Tools:
 
@@ -43,8 +42,6 @@ Only installed for Game Development!
 
 * [CheatEnginer](https://cheatengine.org/downloads.php)
 * [WeMod](https://www.wemod.com/download)
-
-
 
 # Other
 

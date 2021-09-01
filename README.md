@@ -24,7 +24,7 @@ List of software useful on a Windows machine dedicated to gaming.
 * [Hamachi](https://vpn.net/)
 
 # Account Managers
-* [Steam Account Switcher]()
+* [Steam Account Switcher](https://github.com/W3D3/SteamAccountSwitcher)
 * [GameRanger Account Switcher](https://github.com/kodie/gameranger-account-switcher)
 * [TCNO Account Switcher](https://github.com/TcNobo/TCNO-Acc-Switcher)
 

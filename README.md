@@ -28,6 +28,9 @@ List of software useful on a Windows machine dedicated to gaming.
 * [GameRanger Account Switcher](https://github.com/kodie/gameranger-account-switcher)
 * [TCNO Account Switcher](https://github.com/TcNobo/TCNO-Acc-Switcher)
 
+# Image Upscaling
+* [Magpie FSR](https://github.com/Blinue/Magpie)
+
 # FrameRate
 * [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards)
 * [Rivatuner Statistics Server](https://rivatuner.me/)

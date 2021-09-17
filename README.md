@@ -60,6 +60,7 @@ Install ChocolateyGui:
 Open ChocolateyGui and install (enable "Include Prerelease" and Dark theme):
 
 - Discord (Install) (`discord.install`)
+- [PreMid](https://premid.app/)
 - Logitech Gaming Software (`logitechgaming`)
 - MSI Afterburner (`msiafterburner`)
 

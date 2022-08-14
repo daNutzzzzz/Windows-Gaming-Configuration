@@ -31,6 +31,9 @@ List of software useful on a Windows machine dedicated to gaming.
 # Image Upscaling
 * [Magpie FSR](https://github.com/Blinue/Magpie)
 
+# Mouse Configurator
+* [Raw Accel](https://github.com/a1xd/rawaccel)
+
 # FrameRate
 * [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards)
 * [Rivatuner Statistics Server](https://rivatuner.me/)
